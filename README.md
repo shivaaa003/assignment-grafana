@@ -9,7 +9,7 @@ This project implements a **lightweight, production-ready observability stack** 
 
 The design is optimized for a device with **2 CPU cores** and **≈500 MB usable RAM**, with the entire observability stack constrained to **< 300 MB RAM**.
 
----
+
 
 ### Architecture Overview
 
